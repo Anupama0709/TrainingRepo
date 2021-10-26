@@ -1,3 +1,4 @@
 first one
 edited second line
 pushing to git hub
+checking the rule for master
